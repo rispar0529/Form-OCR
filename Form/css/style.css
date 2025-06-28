@@ -1,0 +1,16 @@
+*{
+    font-size: 30px;
+}
+.form{
+    display: flexbox;
+   justify-content: center;
+   align-items: center;
+   
+} 
+ div{
+    display: block;
+    padding:7px 0px 7px 0px;
+}
+body{
+    background-color: aliceblue;
+}

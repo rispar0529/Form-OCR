@@ -1,0 +1,14 @@
+{
+    "Name": "Name",
+    "DOB": "DOB",
+    "Gender": "Gender",
+    "Residence": "Residence",
+    "Address": "Address",
+    "Region": "Region",
+    "Country": "Country",
+    "State": "State",
+    "City": "City",
+    "POSTAL": "Postal Code",
+    "PHONE": "Phone no.",
+    "Email": "Email"
+}
